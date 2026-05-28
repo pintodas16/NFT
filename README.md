@@ -362,24 +362,7 @@ For issues, questions, or suggestions:
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-## 🎯 Roadmap
-
-- [ ] Add animation transitions
-- [ ] Enhance mobile responsiveness
-- [ ] Add dark mode support
-- [ ] Implement form validation
-- [ ] Add accessibility features
-- [ ] Create component library documentation
-- [ ] Add more homepage variations
-- [ ] Optimize performance metrics
-
----
 
 ## 🙏 Acknowledgments
 
@@ -388,7 +371,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - All third-party library developers whose tools power this template
 - The open-source community for inspiration
 
----
+
 
 ## 📊 Statistics
 
@@ -409,6 +392,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**Made with ❤️ for the NFT community**
 
-Last Updated: 2026
